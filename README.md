@@ -1,5 +1,5 @@
 # SMDLoader
-A three.js loader used for loading SMD files (Valve Studiomdl Data). SMD files are ASCII. You can go to [Valve's article about SMD files](https://developer.valvesoftware.com/wiki/SMD) if you want to learn more about them.
+A three.js loader used for loading SMD files (Valve Studiomdl Data). SMD files are ASCII and are used by Valve's Source Engine. You can go to [Valve's article about SMD files](https://developer.valvesoftware.com/wiki/SMD) if you want to learn more about them.
 
 # Features
 ### Supported
